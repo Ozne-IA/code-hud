@@ -1,0 +1,14 @@
+{
+  "name": "code-hud",
+  "version": "0.7.0",
+  "description": "Panneau d'état pour Claude Code : modèle, projet, contexte, limite hebdomadaire et checklists",
+  "license": "MIT",
+  "author": { "name": "claude-hud contributors" },
+  "userConfig": {
+    "checklists_file": {
+      "type": "string",
+      "title": "Fichier des checklists (optionnel)",
+      "description": "Chemin absolu d'un fichier texte listant, une par ligne, les chemins de checklists Markdown à suivre. Laisser vide pour désactiver cette partie."
+    }
+  }
+}

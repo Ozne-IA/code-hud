@@ -1,0 +1,11 @@
+{
+  "name": "code-hud",
+  "owner": { "name": "claude-hud contributors" },
+  "plugins": [
+    {
+      "name": "code-hud",
+      "source": "./plugins/code-hud",
+      "description": "Panneau d'état pour Claude Code : modèle, contexte, limite hebdomadaire, checklists"
+    }
+  ]
+}
